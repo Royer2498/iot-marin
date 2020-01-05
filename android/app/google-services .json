@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619406079881",
+    "firebase_url": "https://final-iot-3059e.firebaseio.com",
+    "project_id": "final-iot-3059e",
+    "storage_bucket": "final-iot-3059e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619406079881:android:64ff8751f9ef2d878b1358",
+        "android_client_info": {
+          "package_name": "marin.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619406079881-r1cg5shfvb52kilqimk9b4ishson8n94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSMmCoV9z3DogKDeXjKv54RDHhoYWbso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619406079881-r1cg5shfvb52kilqimk9b4ishson8n94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
